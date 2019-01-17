@@ -5,6 +5,5 @@ WORKDIR /PythonFlaskWeb
 ADD . /PythonFlaskWeb/
 RUN pip install flask
 RUN pip install requests
-WORKDIR ../
 EXPOSE 5555
 CMD python runserver.py

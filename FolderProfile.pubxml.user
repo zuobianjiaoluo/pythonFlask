@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\python\FlaskWeb\bin\Release\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Dockerfile.txt">
+      <publishTime>01/17/2019 15:07:23</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/content/bootstrap.css">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/content/bootstrap.min.css">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/content/site.css">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/scripts/bootstrap.js">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/scripts/bootstrap.min.js">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/scripts/jquery-1.10.2.intellisense.js">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/scripts/jquery-1.10.2.js">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/scripts/jquery-1.10.2.min.js">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/scripts/jquery-1.10.2.min.map">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/scripts/jquery.validate-vsdoc.js">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/scripts/jquery.validate.js">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/scripts/jquery.validate.min.js">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/scripts/jquery.validate.unobtrusive.js">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/scripts/modernizr-2.6.2.js">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/scripts/respond.js">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/scripts/respond.min.js">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/static/scripts/_references.js">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/templates/about.html">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/templates/contact.html">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/templates/index.html">
+      <publishTime>01/14/2019 15:47:06</publishTime>
+    </File>
+    <File Include="FlaskWeb/templates/layout.html">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="FlaskWeb/utils/httpClientHelper.py">
+      <publishTime>01/14/2019 17:35:31</publishTime>
+    </File>
+    <File Include="FlaskWeb/views.py">
+      <publishTime>01/17/2019 14:12:42</publishTime>
+    </File>
+    <File Include="FlaskWeb/__init__.py">
+      <publishTime>01/17/2019 14:49:33</publishTime>
+    </File>
+    <File Include="requirements.txt">
+      <publishTime>12/29/2018 10:23:14</publishTime>
+    </File>
+    <File Include="runserver.py">
+      <publishTime>01/11/2019 14:14:22</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

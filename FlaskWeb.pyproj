@@ -46,7 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="FolderProfile.pubxml" />
-    <Content Include="Dockerfile.txt" />
+    <Content Include="Dockerfile" />
     <Content Include="requirements.txt" />
     <Content Include="FlaskWeb\static\content\bootstrap.css" />
     <Content Include="FlaskWeb\static\content\bootstrap.min.css" />

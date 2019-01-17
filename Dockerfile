@@ -1,7 +1,6 @@
 FROM    python:3.7
-
-RUN mkdir /PythonFlaskWeb
-WORKDIR /PythonFlaskWeb
+RUN mkdir /app
+WORKDIR /app
 COPY ./ .
 RUN pip install flask
 RUN pip install requests
